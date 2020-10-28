@@ -1,13 +1,18 @@
 D:\semestres\semestre_9\administracion\spring\springbootJWT\src\main\java\com\grokonez\jwtauthentication\repository\EmpresaRepository.java
+D:\semestres\semestre_9\administracion\spring\springbootJWT\src\main\java\com\grokonez\jwtauthentication\controller\PoblacionController.java
 D:\semestres\semestre_9\administracion\spring\springbootJWT\src\main\java\com\grokonez\jwtauthentication\repository\RoleRepository.java
 D:\semestres\semestre_9\administracion\spring\springbootJWT\src\main\java\com\grokonez\jwtauthentication\message\request\LoginForm.java
+D:\semestres\semestre_9\administracion\spring\springbootJWT\src\main\java\com\grokonez\jwtauthentication\repository\PoblacionRepository.java
 D:\semestres\semestre_9\administracion\spring\springbootJWT\src\main\java\com\grokonez\jwtauthentication\model\Municipio.java
+D:\semestres\semestre_9\administracion\spring\springbootJWT\src\main\java\com\grokonez\jwtauthentication\model\Localidad.java
+D:\semestres\semestre_9\administracion\spring\springbootJWT\src\main\java\com\grokonez\jwtauthentication\repository\LocalidadRepository.java
 D:\semestres\semestre_9\administracion\spring\springbootJWT\src\main\java\com\grokonez\jwtauthentication\controller\CategoriaController.java
 D:\semestres\semestre_9\administracion\spring\springbootJWT\src\main\java\com\grokonez\jwtauthentication\message\response\JwtResponse.java
 D:\semestres\semestre_9\administracion\spring\springbootJWT\src\main\java\com\grokonez\jwtauthentication\repository\CategoriaRepository.java
 D:\semestres\semestre_9\administracion\spring\springbootJWT\src\main\java\com\grokonez\jwtauthentication\security\jwt\JwtAuthTokenFilter.java
 D:\semestres\semestre_9\administracion\spring\springbootJWT\src\main\java\com\grokonez\jwtauthentication\repository\UserRepository.java
 D:\semestres\semestre_9\administracion\spring\springbootJWT\src\main\java\com\grokonez\jwtauthentication\message\request\SignUpForm.java
+D:\semestres\semestre_9\administracion\spring\springbootJWT\src\main\java\com\grokonez\jwtauthentication\model\Poblacion.java
 D:\semestres\semestre_9\administracion\spring\springbootJWT\src\main\java\com\grokonez\jwtauthentication\model\User.java
 D:\semestres\semestre_9\administracion\spring\springbootJWT\src\main\java\com\grokonez\jwtauthentication\repository\EstadoRepository.java
 D:\semestres\semestre_9\administracion\spring\springbootJWT\src\main\java\com\grokonez\jwtauthentication\controller\AuthRestAPIs.java
@@ -24,6 +29,7 @@ D:\semestres\semestre_9\administracion\spring\springbootJWT\src\main\java\com\gr
 D:\semestres\semestre_9\administracion\spring\springbootJWT\src\main\java\com\grokonez\jwtauthentication\controller\TestRestAPIs.java
 D:\semestres\semestre_9\administracion\spring\springbootJWT\src\main\java\com\grokonez\jwtauthentication\repository\MunicipioRepository.java
 D:\semestres\semestre_9\administracion\spring\springbootJWT\src\main\java\com\grokonez\jwtauthentication\model\Categoria.java
+D:\semestres\semestre_9\administracion\spring\springbootJWT\src\main\java\com\grokonez\jwtauthentication\controller\LocalidadController.java
 D:\semestres\semestre_9\administracion\spring\springbootJWT\src\main\java\com\grokonez\jwtauthentication\security\jwt\JwtAuthEntryPoint.java
 D:\semestres\semestre_9\administracion\spring\springbootJWT\src\main\java\com\grokonez\jwtauthentication\model\RoleName.java
 D:\semestres\semestre_9\administracion\spring\springbootJWT\src\main\java\com\grokonez\jwtauthentication\security\jwt\JwtProvider.java
